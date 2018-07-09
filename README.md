@@ -1,2 +1,9 @@
-# proyecto-deep-learning
-Implementación de QANet
+# Proyecto Deep Learning
+
+### Implementación de QANet
+
+### Integrantes
+
+*   Vicente Fuenzalida
+*   Alejandro Quiñones
+*   Nicolás Soto
